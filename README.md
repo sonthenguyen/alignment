@@ -6,8 +6,9 @@ Hands-on tutorials on aligning language models at inference time without modifyi
 
 <p align="center">
   <img src="assets/training-free-alignment-as-cherry-on-top.png" alt="Training-free methods as a cherry on top of training-based methods to align LLMs" width="700"/>
+  <br/>
+  <em>Training-free methods as a cherry on top of training-based methods to align LLMs. Image created by Son The Nguyen using the Sloggoth meme with Nano Banana 2.</em>
 </p>
-
 ---
 
 ### Prompt Engineering
