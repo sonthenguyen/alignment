@@ -2,6 +2,10 @@
 
 Hands-on tutorials on aligning language models at inference time without modifying model weights.
 
+<p align="center">
+  <img src="assets/training-free-alignment-as-cherry-on-top.png" alt="Description" width="700"/>
+</p>
+
 ---
 
 ### Prompt Engineering
