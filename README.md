@@ -2,8 +2,10 @@
 
 Hands-on tutorials on aligning language models at inference time without modifying model weights.
 
+**Authors:** Son The Nguyen, Tommy Cheng, Theja Tulabandhula
+
 <p align="center">
-  <img src="assets/training-free-alignment-as-cherry-on-top.png" alt="Description" width="700"/>
+  <img src="assets/training-free-alignment-as-cherry-on-top.png" alt="Training-free methods as a cherry on top of training-based methods to align LLMs" width="700"/>
 </p>
 
 ---
