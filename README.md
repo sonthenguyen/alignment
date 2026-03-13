@@ -9,6 +9,17 @@ Hands-on tutorials on aligning language models at inference time without modifyi
   <br/>
   <em>Training-free methods as a cherry on top of training-based methods to align LLMs. Image created by Son The Nguyen using the Sloggoth meme with Nano Banana 2.</em>
 </p>
+
+---
+
+### NAIRR 2026 Tutorial
+
+<p align="center">
+  <a href="https://youtu.be/KkhyuMftyYw?si=8pUt2SY9lNvPcdYN">
+    <img src="https://img.youtube.com/vi/KkhyuMftyYw/maxresdefault.jpg" alt="Watch the tutorial on YouTube" width="700"/>
+  </a>
+</p>
+
 ---
 
 ### Prompt Engineering
