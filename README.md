@@ -12,6 +12,18 @@ Hands-on tutorials on aligning language models at inference time without modifyi
 
 ---
 
+## About This Repository
+
+Training-Free Alignment is a collection of hands-on educational tutorials on methods for aligning language models at inference time without modifying model weights.
+
+The collection is authored and curated by Son The Nguyen, Tommy Cheng, and Theja Tulabandhula. The tutorials cover both established methods from the broader research literature and original research contributions by the tutorial authors.
+
+Methods developed by third parties are attributed to their original authors and publications within the corresponding notebooks. Inclusion of a method in this repository does not imply that the Training-Free Alignment authors originated that method.
+
+Original research contributions by the tutorial authors are identified explicitly, including MEMETRON, which is described separately below.
+
+---
+
 ### NAIRR 2026 Tutorial
 
 <p align="center">
@@ -53,5 +65,27 @@ Static strategies (Best-of-N, self-consistency) and iterative strategies (Reflex
 | Tommy Cheng | [LinkedIn](https://www.linkedin.com/in/tommyckcheng/) |
 | Theja Tulabandhula | [Website](https://theja.org/) · [X](https://x.com/TTulabandhula) · [LinkedIn](https://www.linkedin.com/in/theja-t/) |
 
-## Our Paper on Response Engineering
-[https://arxiv.org/abs/2506.08643](https://arxiv.org/abs/2506.08643)
+## Original Research: MEMETRON
+
+MEMETRON is an original research contribution by Son The Nguyen and Theja Tulabandhula.
+
+**MEMETRON: Memetic Response Optimizer for Reward-Guided Post-Decoding Optimization of Large Language Models**  
+Son The Nguyen and Theja Tulabandhula  
+*Transactions on Machine Learning Research (TMLR), 2026*
+
+MEMETRON formulates reward-guided post-decoding response optimization as a discrete black-box optimization problem and introduces GENETRON and ANNETRON for iterative response optimization.
+
+- [TMLR / OpenReview](https://openreview.net/forum?id=QRW8OGn3vb)
+- [arXiv](https://arxiv.org/abs/2506.08643)
+
+### BibTeX
+
+```bibtex
+@article{nguyen2026memetron,
+  title={MEMETRON: Memetic Response Optimizer for Reward-Guided Post-Decoding Optimization of Large Language Models},
+  author={Son The Nguyen and Theja Tulabandhula},
+  journal={Transactions on Machine Learning Research},
+  year={2026},
+  url={https://openreview.net/forum?id=QRW8OGn3vb}
+}
+```

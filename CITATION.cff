@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use the Training-Free Alignment tutorials or notebooks in your work, please cite this repository."
+title: "Training-Free Alignment: Hands-on Tutorials on Aligning Language Models at Inference Time"
+authors:
+  - family-names: "Nguyen"
+    given-names: "Son The"
+  - family-names: "Cheng"
+    given-names: "Tommy"
+  - family-names: "Tulabandhula"
+    given-names: "Theja"
+repository-code: "https://github.com/sonthenguyen/alignment"
+type: software
