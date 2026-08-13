@@ -32,6 +32,8 @@ Original research contributions by the tutorial authors are identified explicitl
   <a href="https://youtu.be/KkhyuMftyYw?si=8pUt2SY9lNvPcdYN">
     <img src="https://img.youtube.com/vi/KkhyuMftyYw/maxresdefault.jpg" alt="Watch the tutorial on YouTube" width="700"/>
   </a>
+  <br/>
+  <em>Recorded session available on YouTube — click the image to watch.</em>
 </p>
 
 ---
