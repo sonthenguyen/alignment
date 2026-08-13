@@ -4,6 +4,8 @@ Hands-on tutorials on aligning language models at inference time without modifyi
 
 **Authors:** Son The Nguyen, Tommy Cheng, Theja Tulabandhula
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21925778.svg)](https://doi.org/10.5281/zenodo.21925778)
+
 <p align="center">
   <img src="assets/training-free-alignment-as-cherry-on-top.png" alt="Training-free methods as a cherry on top of training-based methods to align LLMs" width="700"/>
   <br/>
@@ -87,6 +89,17 @@ MEMETRON formulates reward-guided post-decoding response optimization as a discr
   url={https://openreview.net/forum?id=QRW8OGn3vb}
 }
 ```
+
+## Citation
+
+If you use the Training-Free Alignment tutorials or notebooks in your research, teaching, or technical work, please cite this repository.
+
+**Training-Free Alignment: Hands-on Tutorials on Aligning Language Models at Inference Time**  
+Son The Nguyen, Tommy Cheng, and Theja Tulabandhula  
+Version 1.0.0, 2026  
+DOI: [10.5281/zenodo.21925779](https://doi.org/10.5281/zenodo.21925779)
+
+GitHub also provides citation formats through the repository's [`CITATION.cff`](CITATION.cff) file.
 
 ## License
 
