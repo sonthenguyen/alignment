@@ -67,8 +67,6 @@ Static strategies (Best-of-N, self-consistency) and iterative strategies (Reflex
 
 ## Original Research: MEMETRON
 
-MEMETRON is an original research contribution by Son The Nguyen and Theja Tulabandhula.
-
 **MEMETRON: Memetic Response Optimizer for Reward-Guided Post-Decoding Optimization of Large Language Models**  
 Son The Nguyen and Theja Tulabandhula  
 *Transactions on Machine Learning Research (TMLR), 2026*
@@ -89,3 +87,11 @@ MEMETRON formulates reward-guided post-decoding response optimization as a discr
   url={https://openreview.net/forum?id=QRW8OGn3vb}
 }
 ```
+
+## License
+
+Original tutorial text, slides, figures, diagrams, and other educational content created for this repository are licensed under the [Creative Commons Attribution 4.0 International License (CC BY 4.0)](LICENSE-CONTENT), unless otherwise noted.
+
+Original source code authored specifically for this repository is licensed under the [MIT License](LICENSE-CODE).
+
+Third-party methods are attributed to their original authors and sources. Third-party libraries, dependencies, code, figures, datasets, and other materials remain subject to their respective licenses, copyright terms, and attribution requirements.
